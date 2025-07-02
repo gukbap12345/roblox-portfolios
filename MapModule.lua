@@ -1,3 +1,4 @@
+--이건 제가 만든 게임에서 랜덤으로 오브젝트들을 소환하기 위해 쓰인 모듈입니다.
 local module = {}
 module.__index = module
 
