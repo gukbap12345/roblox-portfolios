@@ -1,3 +1,4 @@
+--이 코드는 클라이언트에서 서버로 리모트 이벤트/펑션을 통해 신호를 보냈을때 전해진 정보가(여기선 쿨타임) 합당한지 평가하는 모듈입니다.
 local WeaponConfigs = game:GetService("ReplicatedStorage"):WaitForChild("WeaponConfigs")
 
 local CoolDownList = {}
