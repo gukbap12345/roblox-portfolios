@@ -1,3 +1,4 @@
+--이건 적 몬스터의 AI를 구현하는 모듈입니다. 여기에 필요하면 pathfinding을 추가해서 더 똑똑한 AI를 만들수도 있습니다.
 local module = {}
 module.__index = module
 
